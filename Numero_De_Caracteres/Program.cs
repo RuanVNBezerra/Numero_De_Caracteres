@@ -4,11 +4,6 @@ internal class Program
 {
     static void Main()
     {
-        /*
-         criando um programa que pede ao usuário digitar quaisquer palavras 
-        e depois exibir quantos caracteres tem nessa palavra.
-        */
-
         //pedindo ao usuário para digitar algo.
         Console.WriteLine("Digite uma palavra: ");
         var palavra = Console.ReadLine(); // armazenando oque o usuário digitou
